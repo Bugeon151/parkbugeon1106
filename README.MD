@@ -233,9 +233,6 @@ Competitive programming has provided me with a strong foundation in:
 
 ---
 
-# Core Areas
-
-```text
 AI Systems
 ├── AI Agents
 ├── Multi-Agent Systems
@@ -265,3 +262,10 @@ Computer Science
 ├── Data Structures
 ├── Optimization
 └── Competitive Programming
+
+Programming Languages
+├── Python
+├── JavaScript
+├── SQL
+├── HTML
+└── CSS
